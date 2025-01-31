@@ -1,15 +1,5 @@
 # Rizzder Web Server
 
-## Authors
-- **Cazacu Alexandru-Dan** (322CA)
-- **Giurgiu Andrei-Ștefan** (325CA)
-- **Plopeanu Teodora-Anca** (322CA)
-- **Ungureanu Vlad-Marin** (325CA)
-
-## Repository & Website
-- **GitHub Repository:** [Rizzder Web Server](https://github.com/Alexh1972/Rizzder-Web-Server)
-- **Live Website:** [Rizzder Web Server](https://rizzder-web-server.onrender.com/)
-
 ---
 ## Application Overview
 Rizzder is a Tinder-like web application where users can meet, chat, and share photos. Each user manages their account, including:
@@ -86,6 +76,3 @@ Rizzder is a Tinder-like web application where users can meet, chat, and share p
 - **Slow Startup:**
   - One team member experienced 10-minute startup times.
   - No solution found; frustration evident in commit messages (e.g., **"I hate PyCharm"**).
-
----
-This README provides a clear overview of the Rizzder web server, its features, technologies, and the challenges encountered during development.
