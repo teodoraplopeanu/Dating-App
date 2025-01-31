@@ -7,7 +7,6 @@ Rizzder is a Tinder-like web application where users can meet, chat, and share p
 - Setting a profile picture.
 - Matching with compatible users and initiating text conversations.
 - Respectfully unmatching users if needed.
-- Avoiding ghosting and unjustified blocking, which can result in **penalties**.
 
 ---
 ## Application Flow
