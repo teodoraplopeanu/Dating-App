@@ -1,5 +1,9 @@
 # Rizzder Web Server
-
+## Authors
+- **Cazacu Alexandru-Dan** (322CA)
+- **Giurgiu Andrei-Ștefan** (325CA)
+- **Plopeanu Teodora-Anca** (322CA)
+- **Ungureanu Vlad-Marin** (325CA)
 ---
 ## Application Overview
 Rizzder is a Tinder-like web application where users can meet, chat, and share photos. Each user manages their account, including:
