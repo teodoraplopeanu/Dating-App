@@ -1,4 +1,4 @@
-# Rizzder Web Server
+# Dating Web Server
 
 ## Application Overview
 Rizzder is a Tinder-like web application where users can meet, chat, and share photos. Each user manages their account, including:
